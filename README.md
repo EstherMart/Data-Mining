@@ -40,9 +40,9 @@ https://github.com/EstherMart/Data-Mining
   - Jupyter Notebook ou Jupyter Lab
   - Bibliotecas necessárias (pandas, numpy, scikit-learn, etc.)
 
-### **Passos**  
-1. **Clone o repositório**:  
-   ```bash
-   git clone [https://github.com/seu-usuario/mineracao-de-dados.git](https://github.com/EstherMart/Data-Mining
-   cd mineracao-de-dados
-  ```
+2.1. **Clone o repositório**:  
+
+```bash
+git clone [https://github.com/seu-usuario/mineracao-de-dados.git](https://github.com/EstherMart/Data-Mining
+cd mineracao-de-dados
+```
