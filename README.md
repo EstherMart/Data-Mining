@@ -8,12 +8,12 @@ O repositório está estruturado da seguinte forma:
 mineracao-de-dados/  
 │  
 ├── lista01-tratamento-de-dados/ 
-│   ├── exercicio1.ipynb         # Notebook 
-│   └── exercicio2.ipynb         # Notebook 
+│   ├── tratamento.ipynb         # Notebook 
+│   └── lista01.pdf        # Documento de especificação 
 │  
 ├── lista02-pre-processamento/   # Pasta da Lista 02 - O que será feito
 │   ├── limpeza_de_dados.ipynb   # Notebook 
-│   └── normalizacao.ipynb       # Notebook  
+│   └── lista02.pdf       # Documento de especificação  
 │  
 └── README.md                    # Este arquivo
 ```
